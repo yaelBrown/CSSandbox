@@ -1,1 +1,8 @@
 C# Notes
+
+Setup if similar to Java.
+  install visual studio community. (not vscode)
+
+  ctrl+f5 runs the program
+
+
