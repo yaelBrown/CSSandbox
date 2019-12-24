@@ -5,4 +5,11 @@ Setup if similar to Java.
 
   ctrl+f5 runs the program
 
+svm
+  // are comments
+  /* this is a multi-line comment */
+  Console.WriteLine
+    Writes to a new WriteLine
+  Console.Write
+    Writes to current line, and continues to concatenate. Similar to System.out.print()
 
