@@ -1,0 +1,11 @@
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\bin\Debug\netcoreapp2.1\LearnCS.deps.json
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\bin\Debug\netcoreapp2.1\LearnCS.runtimeconfig.json
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\bin\Debug\netcoreapp2.1\LearnCS.runtimeconfig.dev.json
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\bin\Debug\netcoreapp2.1\LearnCS.dll
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\bin\Debug\netcoreapp2.1\LearnCS.pdb
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\obj\Debug\netcoreapp2.1\LearnCS.csprojAssemblyReference.cache
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\obj\Debug\netcoreapp2.1\LearnCS.csproj.CoreCompileInputs.cache
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\obj\Debug\netcoreapp2.1\LearnCS.AssemblyInfoInputs.cache
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\obj\Debug\netcoreapp2.1\LearnCS.AssemblyInfo.cs
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\obj\Debug\netcoreapp2.1\LearnCS.dll
+C:\Users\Yael-PC1\Projectz\CSSandbox\LearnCS\LearnCS\obj\Debug\netcoreapp2.1\LearnCS.pdb

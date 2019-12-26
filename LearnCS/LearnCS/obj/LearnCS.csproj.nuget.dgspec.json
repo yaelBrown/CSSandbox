@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yael-PC1\\Projectz\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Yael-PC1\\Projectz\\CSSandbox\\LearnCS\\LearnCS\\LearnCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yael-PC1\\Projectz\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Yael-PC1\\Projectz\\CSSandbox\\LearnCS\\LearnCS\\LearnCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yael-PC1\\Projectz\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Yael-PC1\\Projectz\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Yael-PC1\\Projectz\\CSSandbox\\LearnCS\\LearnCS\\LearnCS.csproj",
+        "projectName": "LearnCS",
+        "projectPath": "C:\\Users\\Yael-PC1\\Projectz\\CSSandbox\\LearnCS\\LearnCS\\LearnCS.csproj",
         "packagesPath": "C:\\Users\\Yael-PC1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yael-PC1\\Projectz\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Yael-PC1\\Projectz\\CSSandbox\\LearnCS\\LearnCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

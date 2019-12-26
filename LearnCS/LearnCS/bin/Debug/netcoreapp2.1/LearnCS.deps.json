@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "ConsoleApp1/1.0.0": {
+      "LearnCS/1.0.0": {
         "runtime": {
-          "ConsoleApp1.dll": {}
+          "LearnCS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleApp1/1.0.0": {
+    "LearnCS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

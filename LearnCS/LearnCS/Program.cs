@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace LearnCS
 {
     class Program
     {
@@ -45,6 +45,11 @@ namespace ConsoleApp1
             Console.WriteLine(floatVar);
             Console.WriteLine(charVar);
             Console.WriteLine(boolVar);
+
+            Console.WriteLine("==============");
+
+            // Math methods are similar like in 
+            Console.WriteLine(Math.Pow(3, 2));
 
         }
     }
