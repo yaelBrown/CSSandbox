@@ -51,6 +51,36 @@ namespace LearnCS
             // Math methods are similar like in 
             Console.WriteLine(Math.Pow(3, 2));
 
+            bool compare = 4 == 4.0;
+
+
+            Console.WriteLine("Compare is : " + compare);
+
+            // Arrays (information needs to be of same type. Like java)
+            int[] nums = { 1, 2, 3, 4, 5 };
+            string[] str = new string[5];
+            str[0] = "Yael";
+            str[1] = "Ethan";
+            str[2] = "Skyler";
+
+            // Call method (methods and static context works similar to Java's)
+            sayHello();
+            Console.WriteLine(cube(3));
+
+            // If statements work the same as in Java as well
+
         }
+
+        // Define methods
+        static void sayHello()
+        {
+            Console.WriteLine("Hello !");
+        }
+
+        static int cube(int n)
+        {
+            return n * n * n;
+        }
+
     }
 }
