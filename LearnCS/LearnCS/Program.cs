@@ -69,6 +69,19 @@ namespace LearnCS
 
             // If statements work the same as in Java as well
 
+            // Switch statements are the same as in Java.
+
+            // While and Do-while loops are the same.
+
+            // Create two-demensional arrays in c#
+            int[,] twoDee =
+            {
+                {1, 2 },
+                {2, 3 },
+                {3, 4 }
+            };
+
+
         }
 
         // Define methods
