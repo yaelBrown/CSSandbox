@@ -5,6 +5,8 @@ Setup if similar to Java.
 
   ctrl+f5 runs the program
 
+ctrl+shift+b - compiles application (visual studio)
+
 svm
   // are comments
   /* this is a multi-line comment */
@@ -13,3 +15,13 @@ svm
   Console.Write
     Writes to current line, and continues to concatenate. Similar to System.out.print()
 
+namespace - a container for related classes
+assembly - container for namespaces
+	typically a .dll or .exe
+
+overflow - when you exceed the limit of the variable
+  used checked code block to prevent overflowing
+
+  probably not going to use in real world
+
+there is variable scoping - similar to javascript
