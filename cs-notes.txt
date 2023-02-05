@@ -25,3 +25,9 @@ overflow - when you exceed the limit of the variable
   probably not going to use in real world
 
 there is variable scoping - similar to javascript
+
+capacity() - shows you how much of a value you can have in a variable (collectible/list)
+FirstOrDefault() - find the first value in a list or array that matches the 'callback'
+
+HashSet - only saves a single value (similar to Set)
+  HashSet.removeWhere() - used to remove values based on a condition. (think js filter)
