@@ -31,3 +31,8 @@ FirstOrDefault() - find the first value in a list or array that matches the 'cal
 
 HashSet - only saves a single value (similar to Set)
   HashSet.removeWhere() - used to remove values based on a condition. (think js filter)
+
+Stored Procedures - Are functionals that are called in queries
+
+Group By - returns unique elements
+Order By - sorts unique elements
