@@ -36,3 +36,6 @@ Stored Procedures - Are functionals that are called in queries
 
 Group By - returns unique elements
 Order By - sorts unique elements
+
+useful keyboard shortcuts - http://www.dofactory.com/reference/visual-studio-shortcuts
+
