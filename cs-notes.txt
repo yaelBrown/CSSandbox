@@ -7,6 +7,24 @@ Setup if similar to Java.
 
 ctrl+shift+b - compiles application (visual studio)
 
+Start a project using the dotnet cli
+  Create new solution
+    dotnet new sln -o [name]
+      sln = solution
+
+  Creates a new classlib (?)
+    dotnet new classlib -o [name]
+
+  Creates a new web api
+    dotnet new webapi -o [name]
+
+  Add project to Solution
+    dotnet sln add [projects] (by name)
+    dotnet sln add (ls -r **/*.csproj) (adds recursively)
+
+  Build project
+    dotnet build
+
 svm
   // are comments
   /* this is a multi-line comment */
